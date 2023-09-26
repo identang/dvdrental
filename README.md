@@ -1,7 +1,7 @@
 # DVD Rental Database Analysis
 
 ## Introduction
-This repository showcases my skills in SQL data analysis, specifically using the PostgreSQL Sample Database from [postgresqltutorial.com](https://www.postgresqltutorial.com/). The project involves analyzing the DVD rental database to gain valuable insights and make data-driven decisions for a hypothetical DVD rental company.
+This repository showcases my skills in SQL data analysis, specifically using the PostgreSQL Sample Database from [postgresqltutorial.com](https://www.postgresqltutorial.com/). The project inside the assignemnt folder involves analyzing the DVD rental database to gain valuable insights and make data-driven decisions for a hypothetical DVD rental company.
 
 ## Queries
 ### 1. Most Popular and Profit Making Film Category
